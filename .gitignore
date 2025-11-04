@@ -1,0 +1,9 @@
+# Ignore the live config file (it has passwords!)
+config.php
+
+# Ignore the image uploads directory
+uploads/
+
+# Ignore OS-specific files
+.DS_Store
+Thumbs.db
